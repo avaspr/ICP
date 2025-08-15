@@ -1,0 +1,2 @@
+# No external dependencies are required for the parser.
+# The script uses only Python's standard library.
